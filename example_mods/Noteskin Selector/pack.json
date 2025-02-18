@@ -1,0 +1,7 @@
+{
+	"name": "Noteskin Selector",
+	"description": "Created By Snowen/Snow Bro - (Put At The Top)",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [0, 174, 255]
+}

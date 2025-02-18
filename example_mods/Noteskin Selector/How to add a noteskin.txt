@@ -1,0 +1,16 @@
+Basic:
+
+The noteskin name should be the name of the folder in the Noteskins folder.
+Make sure the name of the noteskin is NOTE_assets and the name of the notesplash is noteSplashes.
+
+Splash Types:
+  
+1. Default, This will make your splashes use the basic noteSplashes.
+2. Custom, This will allow you to use the custom splashes in your noteskin folder.
+3. None, This will completely hide your notesplshes.
+
+bgColor:
+
+The color of the background in the Noteskin Selector
+Use Hex Codes
+Remomended Website: https://htmlcolorcodes.com
